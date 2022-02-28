@@ -1,0 +1,1 @@
+The repo is a sample practice of syntax in doc - [https://jestjs.io/docs/getting-started](https://jestjs.io/docs/getting-started)
